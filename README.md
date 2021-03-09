@@ -119,3 +119,16 @@ Another approaches that can be suggested to improve the sales are strategies to 
 
 Author: Erick C. Varela<br/>
 Date: 2/10/2020
+
+
+<br/>
+<br/>
+<br/>
+
+##  For a better visualization:
+
+### [See The Kernel On Kaggle](https://www.kaggle.com/erickvarela/ga-api-ecommerce-exploratory-analysis)
+
+
+### [Or On Nbviewer](https://nbviewer.jupyter.org/github/varelaerick/Google-Analyts-API-Ecommerce-Exploratory-Data-Analysis/blob/main/ga-api-ecommerce-exploratory-analysis.ipynb)
+
