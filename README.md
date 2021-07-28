@@ -15,7 +15,7 @@ All information could be used for a better understanding of eCommerce, further s
 
 ## Resources Used
 **Python Version**: 3.7<br/>
-**Packages**: pandas, numpy, seaborn, matplotlib, display_html
+**Packages**: pandas, plotly, display_html
  
 
 
@@ -52,7 +52,7 @@ I built 7 functions that will present the data in easy ways to interpret. The fu
 <img src="GA-EDA-IMG/Distribution%20of%20Buyers%20%26%20Non%20Buyers%20Behavior%20.png" width="650" comment='return example' > 
 </p>
 
-* **Table** - In order to facilitate the interpretation we will create a table with the behavior of sessions with sale and without sales. Return example:
+***Table** - In order to facilitate the interpretation we will create a table with the behavior of sessions with sale and without sales. Return example:
 <p align="center">
 <img src="GA-EDA-IMG/Table.png" width="450" comment='return example' > 
 </p>
