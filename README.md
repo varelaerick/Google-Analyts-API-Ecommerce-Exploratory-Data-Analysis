@@ -44,12 +44,12 @@ I built 7 functions that will present the data in easy ways to interpret. The fu
 
 * **Customer Profile**  -  Will plot a good visualisation of the customer's profile. Answering what are the top 5 operating systems they use, What are the top 10 regions of the users and In DFs with more than one source or medium we also will plot them. Return example:
 <p align="center">
-<img src="GA-EDA-IMG/Customer%20Profiles.png" width="650" comment='return example' > 
+<img src="GA-EDA-IMG/Customer-Profiles.png" width="650" comment='return example' > 
 </p>
 
 * **Distribution of Buyers & Non Buyers Behavior** - Will compares the behavior metrics' minutesessionDuration',' ga: pageDepth ' and 'ga: hits' of the sessions with sale and the sessions without sales. Return example:
 <p align="center">
-<img src="GA-EDA-IMG/Distribution%20of%20Buyers%20%26%20Non%20Buyers%20Behavior%20.png" width="650" comment='return example' > 
+<img src="GA-EDA-IMG/Distribution-of-Buyers-%26-Non-Buyers-Behavior.png" width="650" comment='return example' > 
 </p>
 
 ***Table** - In order to facilitate the interpretation we will create a table with the behavior of sessions with sale and without sales. Return example:
@@ -59,17 +59,17 @@ I built 7 functions that will present the data in easy ways to interpret. The fu
 
 * **Sales Hour** - Will return two plots, the first one will be a Heat Map that shows what hour we got the higher number of transactions. The second one is a regression plot that will help us to visualize the linear relationships between the number of transactions and the hour of the day. Return example:
 <p align="center">
-<img src="GA-EDA-IMG/Sales%20Hour.png" width="650" comment='return example' > 
+<img src="GA-EDA-IMG/Sales-Hour.png" width="650" comment='return example' > 
 </p>
 
 * **Sales Day** - Here we will do the same thing as above, however, the first plot will be a Heat Map that shows what day we got the higher number of transactions. The second one is a regression plot that will help us to visualize the linear relationships between the number of transactions and the day of the month. Return example:
 <p align="center">
-<img src="GA-EDA-IMG/Sales%20Day.png" width="650" comment='return example' > 
+<img src="GA-EDA-IMG/Sales-Day.png" width="650" comment='return example' > 
 </p>
 
 * **Transaction Correlation** - That function will plot a vertical bar plot which is a nice way to visualise the Pearson Correlation Coefficient (PCC). Return example:
 <p align="center">
-<img src="GA-EDA-IMG/Transaction%20Correlation.png" width="650" comment='return example' > 
+<img src="GA-EDA-IMG/Transaction-Correlation.png" width="650" comment='return example' > 
 </p>
 
 
