@@ -44,7 +44,7 @@ I built 7 functions that will present the data in easy ways to interpret. The fu
 
 * **Customer Profile**  -  Will plot a good visualisation of the customer's profile. Answering what are the top 5 operating systems they use, What are the top 10 regions of the users and In DFs with more than one source or medium we also will plot them. Return example:
 <p align="center">
-<img src="GA-EDA-IMG/Customer-Profiles.png" width="650" comment='return example' > 
+<img src="GA-EDA-IMG/Costumer-Profiles.png" width="650" comment='return example' > 
 </p>
 
 * **Distribution of Buyers & Non Buyers Behavior** - Will compares the behavior metrics' minutesessionDuration',' ga: pageDepth ' and 'ga: hits' of the sessions with sale and the sessions without sales. Return example:
